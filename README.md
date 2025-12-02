@@ -62,19 +62,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tylerthecreaton&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=tylerthecreaton&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tylerthecreaton&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDEzdjN6bmRzYmE0emZkNDJ6MXBvM25zZjV3dDhsZ2p6OTJlbjk4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJmcDBqcmE3ZnptOGsxMTV6aXZmam9uZTgyMGl4cmJzaWJ3Z2NvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+  <img src="https://streak-stats.demolab.com?user=tylerthecreaton&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=tylerthecreaton&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tylerthecreaton/tylerthecreaton/output/snake.svg" alt="Snake animation" />
 
 ###
