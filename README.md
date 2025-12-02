@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">💀Professional | Problem |  Resolver💀</h1>
+<h5 align="center">Commit to the Legacy Codebase. It is the only way you can ship the feature.</h5>
 
 ###
 
@@ -68,7 +68,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tylerthecreaton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=tylerthecreaton&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=tylerthecreaton&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -76,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJmcDBqcmE3ZnptOGsxMTV6aXZmam9uZTgyMGl4cmJzaWJ3Z2NvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+  <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJmcDBqcmE3ZnptOGsxMTV6aXZmam9uZTgyMGl4cmJzaWJ3Z2NvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 </div>
 
 ###
