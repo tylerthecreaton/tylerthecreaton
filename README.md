@@ -4,15 +4,9 @@
 
 ---
 
-<h5 align="center">
-  <span style="
-    background: linear-gradient(90deg, #ff0040, #ff8000, #ffe600, #14ff00, #00eaff, #6f00ff, #ff00aa);
-    -webkit-background-clip: text;
-    color: transparent;
-  ">
-    Commit to the Legacy Codebase. It is the only way you can ship the feature.
-  </span>
-</h5>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Legacy%20code%20is%20not%20a%20curse,%20it%E2%80%99s%20a%20challenge.%20Master%20it,%20and%20you%20own%20the%20system.&author=Natakrit" />
+</div>
 
 ---
 
@@ -84,12 +78,12 @@
 
 ---
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tylerthecreaton&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tylerthecreaton&layout=compact&theme=tokyonight" />
-
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tylerthecreaton&show_icons=true&theme=nightowl" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tylerthecreaton&layout=compact&theme=nightowl" />
 </p>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tylerthecreaton&theme=dracula&hide_border=false&border_radius=5" height="160" /> 
+  <img src="https://streak-stats.demolab.com?user=tylerthecreaton&theme=nightowl&hide_border=false&border_radius=5" height="160" /> 
   <br />
-  <img src="https://github-profile-trophy.vercel.app?username=tylerthecreaton&theme=dracula&row=1&margin-w=8&margin-h=8" height="160" />
+  <img src="https://github-profile-trophy.vercel.app?username=tylerthecreaton&theme=tokyonight&row=1&margin-w=8&margin-h=8" height="160" />
 </div>
